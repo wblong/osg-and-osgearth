@@ -11,7 +11,7 @@ osg第一个简单的例子。
 
 ## 演示
 
-![osg Hello World](../images/learn_osg_01.png)
+![osg Hello World](../images/learn_osg_01.jpg)
 
 ## 参考
 
