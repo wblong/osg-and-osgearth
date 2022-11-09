@@ -23,3 +23,7 @@ osg & osgearth 的一些示例。
 - [02 osg 加载OSGB倾斜](./learn_osg_02/readme.md)
 - [03 osg NDC与世界坐标系](./learn_osg_03/readme.md)
 - [04 osg 纹理贴图](./learn_osg_04/readme.md)
+
+## Compile
+
+`cmake -DCMAKE_BUILD_TYPE=Release`
